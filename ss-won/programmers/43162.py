@@ -2,6 +2,7 @@
 def solution(n, computers):
     answer = 0
     visited = []
+
     def dfs(s):
         visited.append(s)
         for i in range(len(computers[s])):
