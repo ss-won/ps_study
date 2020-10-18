@@ -6,3 +6,6 @@
 | :---: | -- | :---: | :---: | -- |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [py](leetcode/38.py) | easy | string |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [py](leetcode/20.py) | easy | stack |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [py](leetcode/7.py) | easy | math |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [py](leetcode/9.py) | easy | math |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [py](leetcode/278.py) | easy | binary-search |
