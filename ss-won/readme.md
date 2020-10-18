@@ -13,3 +13,4 @@
   - **[DFS/BFS, Level 3]** 여행경로(43164) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43164.cpp)
   - **[Sort, Level 2]** H-Index(42747) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42747.cpp)
   - **[Graph, Level 3]** 가장 먼 노드(49189) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/49189.cpp) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/49189.js)
+  - **[Stack/Queue, Level 2]** 프린터(42587) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42587.py)
