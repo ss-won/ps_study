@@ -23,3 +23,4 @@
   - **[DP, Level 3]** [등굣길(42898)](https://programmers.co.kr/learn/courses/30/lessons/42898) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42898.py) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42898.cpp)
   - **[Brute-Force, Level 1]** [모의고사(42840)](https://programmers.co.kr/learn/courses/30/lessons/42840) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42840.py)
   - **[Heap, Level 2]** [더 맵게(42626)](https://programmers.co.kr/learn/courses/30/lessons/42626) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42626.cpp)
+  - **[Heap, Level 3]** [디스크 컨트롤러(42627)](https://programmers.co.kr/learn/courses/30/lessons/42627) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42627.cpp)
