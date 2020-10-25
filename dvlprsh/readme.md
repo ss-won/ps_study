@@ -10,3 +10,4 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [py](leetcode/9.py) | easy | math |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [py](leetcode/278.py) | easy | binary-search |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [py](leetcode/29.py) | medium | math |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [py](leetcode/35.py) | easy | array / binary-search |
