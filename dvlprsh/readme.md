@@ -11,3 +11,5 @@
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [py](leetcode/278.py) | easy | binary-search |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [py](leetcode/29.py) | medium | math |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [py](leetcode/35.py) | easy | array / binary-search |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [py](leetcode/1.py) | easy | array / hash-table |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [py](leetcode/66.py) | easy | array |
