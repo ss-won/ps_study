@@ -19,3 +19,4 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [py](leetcode/1.py) | easy | array / hash-table |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [py](leetcode/66.py) | easy | array |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [py](leetcode/383.py) | easy | string |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [py](leetcode/58.py) | easy | string |
