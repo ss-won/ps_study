@@ -29,3 +29,4 @@
 
 - programmers
   - **[Heap, Level 3]** [이중 우선순위 큐(42628)](https://programmers.co.kr/learn/courses/30/lessons/42628) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42628.cpp) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42628.py)
+  - **[Brute-Force, Level 2]** [카펫(42842)](https://programmers.co.kr/learn/courses/30/lessons/42842) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42842.py)
