@@ -32,3 +32,4 @@
   - **[Brute-Force, Level 2]** [카펫(42842)](https://programmers.co.kr/learn/courses/30/lessons/42842) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42842.py)
   - **[Brute-Force, Level 2]** [소수 찾기(42839)](https://programmers.co.kr/learn/courses/30/lessons/42839) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42839.py)
   - **[DP, Level 3]** [N으로 표현(42895)](https://programmers.co.kr/learn/courses/30/lessons/42895) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42895.js)
+  - **[Greedy, Level 2]** [큰 수 만들기(42883)](https://programmers.co.kr/learn/courses/30/lessons/42883) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42883.py)
