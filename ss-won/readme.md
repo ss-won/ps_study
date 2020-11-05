@@ -33,3 +33,8 @@
   - **[Brute-Force, Level 2]** [소수 찾기(42839)](https://programmers.co.kr/learn/courses/30/lessons/42839) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42839.py)
   - **[DP, Level 3]** [N으로 표현(42895)](https://programmers.co.kr/learn/courses/30/lessons/42895) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42895.js)
   - **[Greedy, Level 2]** [큰 수 만들기(42883)](https://programmers.co.kr/learn/courses/30/lessons/42883) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42883.py)
+
+### 11월 1주차(2020/11/2 - 2020/11/8)
+
+- programmers
+  - **[Greedy, Level 2]** [구명보트(42885)](https://programmers.co.kr/learn/courses/30/lessons/42885) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42885.cpp)
