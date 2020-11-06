@@ -3,7 +3,7 @@
 ### 10월 2주차(2020/10/5 - 2020/10/11)
 
 - programmers
-  - **[DFS/BFS, Level 2]** [타겟 넘버(43165)]() [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43165.js) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43165.cpp)
+  - **[DFS/BFS, Level 2]** [타겟 넘버(43165)](https://programmers.co.kr/learn/courses/30/lessons/43165) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43165.js) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43165.cpp)
   - **[DFS/BFS, Level 3]** [네트워크(43162)](https://programmers.co.kr/learn/courses/30/lessons/43162) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43162.py) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43162.cpp)
 
 ### 10월 2주차(2020/10/12 - 2020/10/18)
@@ -39,3 +39,4 @@
 - programmers
   - **[Greedy, Level 2]** [구명보트(42885)](https://programmers.co.kr/learn/courses/30/lessons/42885) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42885.cpp)
   - **[Greedy, Level 3]** [섬 연결하기(42861)](https://programmers.co.kr/learn/courses/30/lessons/42861) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42861.py)
+  - **[Greedy, Level 3]** [단속카메라(42884)](https://programmers.co.kr/learn/courses/30/lessons/42884) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42884.py)
