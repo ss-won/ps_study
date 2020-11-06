@@ -38,3 +38,4 @@
 
 - programmers
   - **[Greedy, Level 2]** [구명보트(42885)](https://programmers.co.kr/learn/courses/30/lessons/42885) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42885.cpp)
+  - **[Greedy, Level 3]** [섬 연결하기(42861)](https://programmers.co.kr/learn/courses/30/lessons/42861) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42861.py)
