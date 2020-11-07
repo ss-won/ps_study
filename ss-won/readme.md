@@ -40,3 +40,5 @@
   - **[Greedy, Level 2]** [구명보트(42885)](https://programmers.co.kr/learn/courses/30/lessons/42885) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42885.cpp)
   - **[Greedy, Level 3]** [섬 연결하기(42861)](https://programmers.co.kr/learn/courses/30/lessons/42861) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42861.py)
   - **[Greedy, Level 3]** [단속카메라(42884)](https://programmers.co.kr/learn/courses/30/lessons/42884) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42884.py)
+  - **[Greedy, Level 1]** [체육복(42862)](https://programmers.co.kr/learn/courses/30/lessons/42862) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42862.py)
+  - **[Greedy, Level 2]** [조이스틱(42860)](https://programmers.co.kr/learn/courses/30/lessons/42860) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42860.py)
