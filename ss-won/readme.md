@@ -42,3 +42,8 @@
   - **[Greedy, Level 3]** [단속카메라(42884)](https://programmers.co.kr/learn/courses/30/lessons/42884) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42884.py)
   - **[Greedy, Level 1]** [체육복(42862)](https://programmers.co.kr/learn/courses/30/lessons/42862) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42862.py)
   - **[Greedy, Level 2]** [조이스틱(42860)](https://programmers.co.kr/learn/courses/30/lessons/42860) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42860.py)
+
+### 11월 2주차(2020/11/9 - 2020/11/15)
+
+- programmers
+  - **[Graph, Level 3]** [순위(49191)](https://programmers.co.kr/learn/courses/30/lessons/49191) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/49191.py)
