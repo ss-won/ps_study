@@ -47,3 +47,4 @@
 
 - programmers
   - **[Graph, Level 3]** [순위(49191)](https://programmers.co.kr/learn/courses/30/lessons/49191) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/49191.py)
+  - **[Binary Search, Level 3]** [입국심사(43238)](https://programmers.co.kr/learn/courses/30/lessons/43238) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43238.cpp)
