@@ -20,3 +20,10 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [py](leetcode/66.py) | easy | array |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [py](leetcode/383.py) | easy | string |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [py](leetcode/58.py) | easy | string |
+
+### 11월 1주차(2020/11/2 - 2020/11/8)
+#### LeetCode
+| # | Title | Solution | Difficulty | Topic |
+| :---: | -- | :---: | :---: | -- |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [py](leetcode/125.py) | easy | Two Pointers / String |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [py](leetcode/344.py) | easy | Two Pointers / String |
