@@ -27,3 +27,9 @@
 | :---: | -- | :---: | :---: | -- |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [py](leetcode/125.py) | easy | Two Pointers / String |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [py](leetcode/344.py) | easy | Two Pointers / String |
+
+### 11월 2주차(2020/11/9 - 2020/11/15)
+#### LeetCode
+| # | Title | Solution | Difficulty | Topic |
+| :---: | -- | :---: | :---: | -- |
+| 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [py](leetcode/937.py) [js](leetcode/937.js) | easy | String |
