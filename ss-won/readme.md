@@ -48,3 +48,9 @@
 - programmers
   - **[Graph, Level 3]** [순위(49191)](https://programmers.co.kr/learn/courses/30/lessons/49191) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/49191.py)
   - **[Binary Search, Level 3]** [입국심사(43238)](https://programmers.co.kr/learn/courses/30/lessons/43238) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43238.cpp)
+  - **[Implement, Level 2]** [[3차] n진수 게임(17687)](https://programmers.co.kr/learn/courses/30/lessons/17687) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17687.py)
+    **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
+  - **[Implement/String, Level 2]** [[3차] 압축(17684)](https://programmers.co.kr/learn/courses/30/lessons/17684) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17684.py)
+    **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
+  - **[DFS/BFS, Level 2]** [카카오프렌즈 컬러링북(1829)](https://programmers.co.kr/learn/courses/30/lessons/1829) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/1829.cpp)
+    **`⭐️ 17' KAKAO 코드 예선`**
