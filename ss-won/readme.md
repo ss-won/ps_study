@@ -54,3 +54,11 @@
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
   - **[DFS/BFS, Level 2]** [카카오프렌즈 컬러링북(1829)](https://programmers.co.kr/learn/courses/30/lessons/1829) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/1829.cpp)
     **`⭐️ 17' KAKAO 코드 예선`**
+
+### 11월 3주차(2020/11/16 - 2020/11/22)
+
+- programmers
+  - **[Implement/String, Level 1]** [[1차] 다트 게임(17682)](https://programmers.co.kr/learn/courses/30/lessons/17682) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17682.py)
+    **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
+  - **[Implement/Sort, Level 1]** [실패율(42889)](https://programmers.co.kr/learn/courses/30/lessons/42889) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42889.py)
+    **`⭐️ 19' KAKAO BLIND RECRUITMENT`**
