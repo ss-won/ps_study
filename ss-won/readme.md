@@ -1,6 +1,6 @@
 # ss-won
 
-### 10월 2주차(2020/10/5 - 2020/10/11)
+### 10월 1주차(2020/10/5 - 2020/10/11)
 
 - programmers
   - **[DFS/BFS, Level 2]** [타겟 넘버(43165)](https://programmers.co.kr/learn/courses/30/lessons/43165) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43165.js) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/43165.cpp)
