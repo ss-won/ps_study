@@ -5,7 +5,7 @@
 | Platform    | Language        | Difficulty | Quantity of ps |
 | ----------- | --------------- | ---------- | -------------- |
 | leetcode    | python, js, cpp | easy-hard  | 5 or more      |
-| programmers | python, js, cpp | lv2-lv5    | 5 or more      |
+| programmers | python, js, cpp | lv1-lv4   | 5 or more      |
 
 <br>
 
