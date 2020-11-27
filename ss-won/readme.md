@@ -68,3 +68,9 @@
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
   - **[Stack/Queue, Level 1]** [크레인 인형뽑기 게임(64061)](https://programmers.co.kr/learn/courses/30/lessons/64061) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64061.py)
     **`⭐️ 19' KAKAO 개발자 겨울 인턴십`**
+
+### 11월 4주차(2020/11/23 - 2020/11/29)
+
+- programmers
+  - **[String/Sort, Level 2]** [[3차]파일명 정렬(17686)](https://programmers.co.kr/learn/courses/30/lessons/17686) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17686.py)
+    **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
