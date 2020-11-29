@@ -74,3 +74,5 @@
 - programmers
   - **[String/Sort, Level 2]** [[3차]파일명 정렬(17686)](https://programmers.co.kr/learn/courses/30/lessons/17686) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17686.py)
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
+  - **[String/Hash, Level 2]** [오픈채팅방(42888)](https://programmers.co.kr/learn/courses/30/lessons/42888) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42888.py)
+    **`⭐️ 19' KAKAO BLIND RECRUITMENT`**
