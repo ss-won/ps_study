@@ -72,7 +72,7 @@
 ### 11월 4주차(2020/11/23 - 2020/11/29)
 
 - programmers
-  - **[String/Sort, Level 2]** [[3차]파일명 정렬(17686)](https://programmers.co.kr/learn/courses/30/lessons/17686) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17686.py)
+  - **[String/Sort, Level 2]** [[3차] 파일명 정렬(17686)](https://programmers.co.kr/learn/courses/30/lessons/17686) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17686.py)
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
   - **[String/Hash/Implement, Level 2]** [오픈채팅방(42888)](https://programmers.co.kr/learn/courses/30/lessons/42888) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/42888.py)
     **`⭐️ 19' KAKAO BLIND RECRUITMENT`**
@@ -80,5 +80,9 @@
 ### 12월 1주차(2020/11/30 - 2020/12/6)
 
 - programmers
-  - **[String/Implement, Level 2]** [[1차]뉴스 클러스터링(17677)](https://programmers.co.kr/learn/courses/30/lessons/17677) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17677.py)
+  - **[String/Implement, Level 2]** [[1차] 뉴스 클러스터링(17677)](https://programmers.co.kr/learn/courses/30/lessons/17677) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17677.py)
+    **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
+  - **[DS/Implement, Level 2]** [[1차] 캐시(17680)](https://programmers.co.kr/learn/courses/30/lessons/17680) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17680.py)
+    **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
+  - **[DS/Implement, Level 2]** [[1차] 프렌즈4블록(17679)](https://programmers.co.kr/learn/courses/30/lessons/17679) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17679.py)
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
