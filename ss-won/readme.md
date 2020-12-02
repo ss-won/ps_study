@@ -86,3 +86,5 @@
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
   - **[DS/Implement, Level 2]** [[1차] 프렌즈4블록(17679)](https://programmers.co.kr/learn/courses/30/lessons/17679) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17679.py)
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
+  - **[String/Implement, Level 2]** [[3차] 방금 그 곡(17683)](https://programmers.co.kr/learn/courses/30/lessons/17683) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17683.py)
+    **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
