@@ -88,3 +88,7 @@
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
   - **[String/Implement, Level 2]** [[3차] 방금 그 곡(17683)](https://programmers.co.kr/learn/courses/30/lessons/17683) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17683.py)
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
+  - **[String/Implement/Brute-Force, Level 2]** [수식 최대화(67257)](https://programmers.co.kr/learn/courses/30/lessons/67257) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/67257.py)
+    **`⭐️ 20' KAKAO 인턴십`**
+  - **[String/Implement, Level 2]** [문자열 압축(60057)](https://programmers.co.kr/learn/courses/30/lessons/60057) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/60057.py) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/60057.js)
+    **`⭐️ 20' KAKAO BLIND RECRUITMENT`**
