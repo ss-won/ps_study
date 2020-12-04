@@ -92,3 +92,5 @@
     **`⭐️ 20' KAKAO 인턴십`**
   - **[String/Implement, Level 2]** [문자열 압축(60057)](https://programmers.co.kr/learn/courses/30/lessons/60057) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/60057.py) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/60057.js)
     **`⭐️ 20' KAKAO BLIND RECRUITMENT`**
+  - **[String/Implement, Level 2]** [괄호 변환(60058)](https://programmers.co.kr/learn/courses/30/lessons/60058) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/60058.py) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/60058.js)
+    **`⭐️ 20' KAKAO BLIND RECRUITMENT`**
