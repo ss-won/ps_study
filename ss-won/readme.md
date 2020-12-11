@@ -95,8 +95,10 @@
   - **[String/Implement, Level 2]** [괄호 변환(60058)](https://programmers.co.kr/learn/courses/30/lessons/60058) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/60058.py) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/60058.js)
     **`⭐️ 20' KAKAO BLIND RECRUITMENT`**
 
-### 12월 1주차(2020/11/30 - 2020/12/6)
+### 12월 2주차(2020/12/7 - 2020/12/13)
 
 - programmers
   - **[String/Implement, Level 2]** [단체사진 찍기(1835)](https://programmers.co.kr/learn/courses/30/lessons/1835) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/1835.cpp)
     **`⭐️ 17' KAKAO 코드 본선`**
+  - **[String/Implement, Level 2]** [튜플(64065)](https://programmers.co.kr/learn/courses/30/lessons/64065) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64065.js)
+    **`⭐️ 19' KAKAO BLIND RECRUITMENT`**
