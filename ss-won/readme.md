@@ -100,5 +100,5 @@
 - programmers
   - **[String/Implement, Level 2]** [단체사진 찍기(1835)](https://programmers.co.kr/learn/courses/30/lessons/1835) [cpp](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/1835.cpp)
     **`⭐️ 17' KAKAO 코드 본선`**
-  - **[String/Implement, Level 2]** [튜플(64065)](https://programmers.co.kr/learn/courses/30/lessons/64065) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64065.js)
+  - **[String/Implement, Level 2]** [튜플(64065)](https://programmers.co.kr/learn/courses/30/lessons/64065) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64065.js) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64065.py)
     **`⭐️ 19' KAKAO BLIND RECRUITMENT`**
