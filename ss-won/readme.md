@@ -66,7 +66,7 @@
     **`⭐️ 20' KAKAO 인턴십`**
   - **[BitMask, Level 1]** [[1차] 비밀지도(17681)](https://programmers.co.kr/learn/courses/30/lessons/17681) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17681.py)
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
-  - **[Stack/Queue, Level 1]** [크레인 인형뽑기 게임(64061)](https://programmers.co.kr/learn/courses/30/lessons/64061) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64061.py)
+  - **[Stack/Queue, Level 1]** [크레인 인형뽑기 게임(64061)](https://programmers.co.kr/learn/courses/30/lessons/64061) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64061.py) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64061.js)
     **`⭐️ 19' KAKAO 개발자 겨울 인턴십`**
 
 ### 11월 4주차(2020/11/23 - 2020/11/29)
@@ -102,7 +102,3 @@
     **`⭐️ 17' KAKAO 코드 본선`**
   - **[String/Implement, Level 2]** [튜플(64065)](https://programmers.co.kr/learn/courses/30/lessons/64065) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64065.js) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64065.py)
     **`⭐️ 19' KAKAO BLIND RECRUITMENT`**
-
-### 12월 3주차(2020/12/14 - 2020/12/20)
-
-- programmers
