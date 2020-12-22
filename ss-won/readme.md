@@ -64,7 +64,7 @@
     **`⭐️ 19' KAKAO BLIND RECRUITMENT`**
   - **[Implement, Level 1]** [키패드 누르기(67256)](https://programmers.co.kr/learn/courses/30/lessons/67256) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/67256.py)
     **`⭐️ 20' KAKAO 인턴십`**
-  - **[BitMask, Level 1]** [[1차] 비밀지도(17681)](https://programmers.co.kr/learn/courses/30/lessons/17681) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17681.py)
+  - **[BitMask, Level 1]** [[1차] 비밀지도(17681)](https://programmers.co.kr/learn/courses/30/lessons/17681) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17681.py) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/17681.js)
     **`⭐️ 18' KAKAO BLIND RECRUITMENT`**
   - **[Stack/Queue, Level 1]** [크레인 인형뽑기 게임(64061)](https://programmers.co.kr/learn/courses/30/lessons/64061) [py](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64061.py) [js](https://github.com/ss-won/ps_study/blob/main/ss-won/programmers/64061.js)
     **`⭐️ 19' KAKAO 개발자 겨울 인턴십`**
